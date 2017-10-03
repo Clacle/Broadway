@@ -33,3 +33,9 @@ p {
   font-weight: bold;
   color: white;
 }
+#footer p, a{
+  text-align: left;
+  font-size: 11px;
+  color: white;
+  background-color: dimgray;
+}
