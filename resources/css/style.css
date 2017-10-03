@@ -37,5 +37,7 @@ p {
   text-align: left;
   font-size: 11px;
   color: white;
+}
+#footer {
   background-color: dimgray;
 }
